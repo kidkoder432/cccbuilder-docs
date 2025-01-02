@@ -1,14 +1,15 @@
 ---
 title: Home
 layout: home
+nav-order: 1 
 ---
 # Welcome to CCCBuilder documentation!
 
 ## What is CCCBuilder?
 
-The most complex part of transfer admission from a community college to a university is fugirng out which courses will satisfy lower-division major requirements. In California, the [ASSIST](https://assist.org) tool helps students find articulation agreements with the schools they want to transfer to. However, these agreements are often cumbersome to follow, and in many cases, one's primary community college doesn't offer some critical courses required for admission. 
+The most complex part of transfer admission from a community college to a university is figuring out which courses will satisfy lower-division major requirements. In California, the [ASSIST](https://assist.org) tool helps students find articulation agreements with the schools they want to transfer to. However, these agreements are often cumbersome to follow, and in many cases, one's primary community college doesn't offer some critical courses required for admission. 
 
-This is where CCCBuilder comes in. It allows students to select any number of UCs and CSUs to transfer to, along with their intended majors or minors at each school. After selecting their primary CCC (California Community College), CCCBuilder will help the student create a course plan that satisfies all of their major requirements. If some courses are not available at their primary CCC, CCCBuilder will find articulated courses at other CCCs. 
+This is where CCCBuilder comes in. It allows students to select any UCs and CSUs to transfer to, along with their intended majors or minors at each school. After choosing their primary CCC (California Community College), CCCBuilder will help the student create a course plan that satisfies all of their major requirements. If some courses are unavailable at their primary CCC, CCCBuilder will find articulated courses at other CCCs. 
 
 ## Technical overview
 
