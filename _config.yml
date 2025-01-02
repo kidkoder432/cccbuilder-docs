@@ -1,0 +1,10 @@
+title: CCCBuilder Documentation
+description: The documentation for CCCBuilder
+theme: just-the-docs
+
+color_scheme: dark
+
+aux_links:
+  Frontend Code: "TODO"
+  Backend Code: "https://github.com/kidkoder432/ccc-builder-backend"
+  Visit CCCBuilder: "https://cccbuilder.vercel.app"
