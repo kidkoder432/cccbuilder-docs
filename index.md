@@ -13,10 +13,10 @@ This is where CCCBuilder comes in. It allows students to select any number of UC
 ## Technical overview
 
 - CCCBuilder's backend uses [FastAPI](https://fastapi.tiangolo.com) and runs on AWS Lambda using the [Lambda Web Adapter](https://github.com/awslabs/aws-lambda-web-adapter).
-    *More details are available at the [backend page](/backend)*.
+    *More details are available at the [backend page](/docs/backend/backend)*.
 
 - CCCBuilder's frontend uses [React](https://reactjs.org/) and is hosted on [Vercel](https://vercel.com).
-    *More details are available at the [frontend page](/frontend)*.
+    *More details are available at the [frontend page](/docs/frontend)*.
 
 ## Inspirations
 - [Transfer Helper](https://transfer.lehuy.dev/) 
